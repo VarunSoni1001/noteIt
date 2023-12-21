@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <title>noteIt -  | Varun Soni</title>
+        <title>noteIt - Your simple and stylish note companion! by Varun Soni</title>
         <meta
           name="description"
           content="noteIt - Your simple and stylish note companion! Elevate your note-taking experience with personalized colors, easy editing, and hassle-free removal. Securely authenticate with Firebase, and embrace a sleek dark theme option. Unleash your creativity—add titles, content, and vibrant colors to your notes effortlessly!"
